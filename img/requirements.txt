@@ -1,0 +1,7 @@
+# --- requirements.txt ---
+
+streamlit
+google-generativeai
+python-dotenv
+pillow
+mysql-connector-python

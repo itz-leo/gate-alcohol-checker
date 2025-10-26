@@ -1,0 +1,11 @@
+# Archivo de secretos
+.env
+
+# Archivos de entorno virtual de Python (en caso de ser necesario)
+venv/
+*.pyc
+__pycache__/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
